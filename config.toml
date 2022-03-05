@@ -1,0 +1,4 @@
+baseURL = 'https://kolaborasiku.com/'
+languageCode = 'en-us'
+title = 'kolaborasiku'
+theme = 'ananke'
